@@ -1,11 +1,13 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 const Header = () => {
   return (
     <header className="w-full bg-white py-4">
       <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
         <div className="flex items-center">
+          <Image src="/images/logo_steel.png" alt="Logo" width={35} height={35}/>
           <Link href="/" className="text-2xl font-bold text-primary">
             STEEL DESIGNER
           </Link>
