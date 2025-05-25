@@ -8,31 +8,31 @@ const ServicesSection = () => {
       id: 1, 
       name: 'Steel Frame', 
       description: 'Sistema construtivo que utiliza perfis de aço galvanizado para formar a estrutura de paredes, lajes e telhados. Oferece alta resistência, durabilidade e rapidez na execução, além de ser uma solução sustentável e versátil para projetos residenciais e comerciais.',
-      image: 'https://images.unsplash.com/photo-1621155346337-1d19476ba7d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80',
+      image: '/images/steelframe.jpg',
     },
     { 
       id: 2, 
       name: 'Fachadas', 
       description: 'Soluções completas para fachadas com materiais modernos e duráveis. Trabalhamos com revestimentos diversos, incluindo ACM, vidro, cerâmica e sistemas de fachada ventilada, proporcionando estética, proteção e eficiência térmica para sua edificação.',
-      image: 'https://images.unsplash.com/photo-1545486332-9e0999c535b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80',
+      image: '/images/fachada.jpeg',
     },
     { 
       id: 3, 
       name: 'Drywall', 
       description: 'Sistema de construção a seco que utiliza chapas de gesso para paredes, forros e revestimentos. Ideal para divisórias internas, oferecendo excelente isolamento acústico, térmico e resistência ao fogo. Permite acabamentos perfeitos e instalação rápida e limpa.',
-      image: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80',
+      image: '/images/drywall.jpg',
     },
     { 
       id: 4, 
       name: 'Gesso', 
       description: 'Trabalhos em gesso para forros, sancas, molduras e elementos decorativos. Oferecemos soluções personalizadas que valorizam os ambientes com acabamentos refinados, permitindo a criação de designs exclusivos e efeitos de iluminação diferenciados.',
-      image: 'https://images.unsplash.com/photo-1595428774223-ef52624120d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80',
+      image: '/images/gesso.png',
     },
     { 
       id: 5, 
       name: 'Acabamentos', 
       description: 'Serviços completos de acabamento interno e externo, incluindo pintura, revestimentos cerâmicos, porcelanatos, laminados e demais materiais. Garantimos precisão na execução e qualidade superior para o resultado final do seu projeto.',
-      image: 'https://images.unsplash.com/photo-1600607686527-6fb886090705?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80',
+      image: '/images/acabamento.jpg',
     },
   ];
 
